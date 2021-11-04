@@ -9,7 +9,7 @@ def primo(numero):
 
 
 def run():
-    numero=int(input("Escribe un numero "))
+    numero=int(input("Escribe un numero: "))
     if primo(numero):
         print("Es primo")
     else:

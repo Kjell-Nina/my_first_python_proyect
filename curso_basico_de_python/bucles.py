@@ -17,7 +17,7 @@
 # print("2 elevado a "+ str(a)+"es igual a: "+ str(2**a))
 
 def run():
-    LIMITE = 1000
+    LIMITE = 1000 #Si esta con mayusculas es una constante
     contador = 0
     potencia_2 = 2**contador
     while potencia_2 < LIMITE:
