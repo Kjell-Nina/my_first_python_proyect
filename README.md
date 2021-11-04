@@ -1,4 +1,4 @@
-# My_first_python_proyect
+# My_first_python_proyects
 Hi, in this repository I'll show some projects that I started with in this languague
 ## You can:
 -Give me some recommendations
